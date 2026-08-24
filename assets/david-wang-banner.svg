@@ -1,17 +1,12 @@
 <svg width="1200" height="360" viewBox="0 0 1200 360" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">David Wang — Product leader, AI builder, founder</title>
-  <desc id="desc">A clean white GitHub cover with a yellow David Wang monogram and bold black typography.</desc>
+  <desc id="desc">A clean white GitHub cover with a yellow P monogram and bold black typography.</desc>
   <rect width="1200" height="360" rx="24" fill="#FFFFFF"/>
   <rect x="4" y="4" width="1192" height="352" rx="20" fill="none" stroke="#111111" stroke-width="8"/>
 
-  <g aria-label="DW monogram">
+  <g aria-label="P monogram">
     <circle cx="154" cy="164" r="86" fill="#FFE028"/>
-    <text x="154" y="188" text-anchor="middle" fill="#050505" font-family="Arial Black, Arial, Helvetica, sans-serif" font-size="63" font-weight="900" letter-spacing="-7">DW</text>
-    <g transform="translate(197 218) rotate(-45)">
-      <rect width="46" height="12" rx="2" fill="#050505"/>
-      <rect y="18" width="37" height="10" rx="2" fill="#050505"/>
-      <rect y="34" width="28" height="8" rx="2" fill="#050505"/>
-    </g>
+    <path d="M307.118 202.785C302.153 198.982 296.384 196.912 281.951 196.912H256.098V211.991H282.762C287.034 211.991 290.952 212.333 294.42 214.168C297.769 215.783 300.313 219.345 300.313 224.759C300.313 230.172 297.769 233.959 294.65 235.569C291.188 237.415 287.378 237.757 283.449 237.757H256.098V282.074H273.294V252.819H283.792C296.271 252.819 302.041 250.749 307.816 246.037C313.237 241.667 316.822 232.915 316.822 224.518C316.822 216.12 313.355 207.84 307.118 202.785Z" fill="#050505" transform="translate(154 164) scale(1.08767) translate(-278.462 -231.769)"/>
   </g>
 
   <text x="286" y="132" fill="#111111" font-family="Arial Black, Arial, Helvetica, sans-serif" font-size="58" font-weight="900" letter-spacing="-2.4">DAVID WANG</text>
