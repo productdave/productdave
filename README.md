@@ -19,9 +19,9 @@ I also built **[Product Academy](https://www.productacademy.io/)** to turn that 
 <table>
   <tr>
     <td align="center"><strong>18+ years</strong><br /><sub>across 8+ product sectors</sub></td>
-    <td align="center"><strong>10M+ shoppers</strong><br /><sub>retail &amp; digital identity</sub></td>
-    <td align="center"><strong>6.5M+ downloads</strong><br /><sub>banking, creator &amp; marketplace apps</sub></td>
-    <td align="center"><strong>5,000+ learners</strong><br /><sub>product education</sub></td>
+    <td align="center"><strong>100M+ Customers Served</strong><br /><sub>from products I created</sub></td>
+    <td align="center"><strong>10BN GMV Generated</strong><br /><sub>for businesses I worked for </sub></td>
+    <td align="center"><strong>5,000+ careers changed</strong><br /><sub> via coaching</sub></td>
   </tr>
 </table>
 
