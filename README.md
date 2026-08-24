@@ -8,7 +8,7 @@
   <a href="mailto:david@davidwang.com.au"><img src="https://img.shields.io/badge/Email-Say_hello-24292F?style=flat-square&logo=gmail&logoColor=white" alt="Email David" /></a>
 </div>
 
-## I build, teach, and lead
+## I Build, I Teach, and I Lead
 
 For **18+ years**, I've built and scaled marketplace, commerce, mobile, payments, and AI products at companies including **Linktree, Kajabi, Airtasker, SocietyOne, and Westfield**.
 
