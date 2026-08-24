@@ -63,7 +63,18 @@ What I teach mirrors how I lead:
 
 **[Explore Product Academy](https://www.productacademy.io/)** · **[Free Break-In Blueprint](https://www.productacademy.io/free-resources/how-to-become-a-product-manager/)** · **[Live Maven cohort](https://maven.com/productdave/ai-product-builder)** · **[Newsletter](https://app.productacademy.io/newsletters/product-dave-breaking-into-product-management)** · **[Weekly events](https://www.meetup.com/productacademy/)**
 
-## Products and teams I've led at scale
+## My specialties
+
+I work best where deep customer problems, commercial outcomes, and complex delivery meet.
+
+- **Marketplaces, commerce, and payments:** multi-sided products, checkout, monetisation, and partner ecosystems.
+- **AI/ML and creator tools:** GenAI workflows, decisioning systems, trust and safety, and tools for creators and SMBs.
+- **Mobile and platform products:** 0→1 consumer apps, shared services, APIs, and developer ecosystems.
+- **Zero-to-one and growth:** customer discovery, rapid prototypes, launches, product-led growth, lifecycle, and experimentation.
+- **Product strategy and leadership:** portfolio bets, multi-quarter roadmaps, executive alignment, and cross-functional delivery.
+- **Teaching and capability building:** player-coach leadership, PM development, reusable frameworks, and practical product education.
+
+## Experience — products and teams I've led at scale
 
 Side projects show how I think with my hands. My day job has been turning the same product judgement into outcomes across larger teams and systems.
 
