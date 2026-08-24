@@ -25,7 +25,7 @@ I also built **[Product Academy](https://www.productacademy.io/)** to turn that 
   </tr>
 </table>
 
-## Products I'm Workin On
+## What I've Built
 
 | Product | The customer problem and the product bet |
 |---|---|
@@ -39,7 +39,7 @@ I also built **[Product Academy](https://www.productacademy.io/)** to turn that 
 
 I also published an earlier **[Product Manager resume-writing skill](https://github.com/productdave/product-manager-resume-writing-skill)**. Its core ideas — truthful tailoring, a reusable achievement bank, and learning from outcomes — grew into Job Search OS.
 
-## Product Academy — teaching the craft
+## What I Teach
 
 I built Product Academy because the hardest part of product management is not memorising a framework. It is developing the judgement to decide **what to build, why it matters, how to validate it, and how to bring people with you.**
 
