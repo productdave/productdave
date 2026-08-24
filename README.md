@@ -18,10 +18,10 @@ This is the builder side of my product story: **find a real problem, make the sm
 
 <table>
   <tr>
-    <td align="center"><strong>18+ years</strong><br /><sub>building digital products</sub></td>
-    <td align="center"><strong>1M+ downloads</strong><br /><sub>Linktree mobile launch</sub></td>
-    <td align="center"><strong>$100M → $1B</strong><br /><sub>SocietyOne loan book</sub></td>
-    <td align="center"><strong>5,000+ learners</strong><br /><sub>Product Academy</sub></td>
+    <td align="center"><strong>18+ years</strong><br /><sub>across 8+ product sectors</sub></td>
+    <td align="center"><strong>10M+ shoppers</strong><br /><sub>retail &amp; digital identity</sub></td>
+    <td align="center"><strong>6.5M+ downloads</strong><br /><sub>banking, creator &amp; marketplace apps</sub></td>
+    <td align="center"><strong>5,000+ learners</strong><br /><sub>product education</sub></td>
   </tr>
 </table>
 
@@ -43,11 +43,11 @@ I also published an earlier **[Product Manager resume-writing skill](https://git
 
 Side projects show how I think with my hands. My day job has been turning the same product judgement into outcomes across larger teams and systems.
 
-- **AI + creator growth:** launched Kajabi's GenAI ad-creation product, driving **12% GMV growth in three months**.
-- **Mobile + monetisation:** led Linktree's 0→1 mobile app to **1M+ downloads, 4.8 stars, and 25% YoY revenue growth**.
-- **Commerce + payments:** scaled Linktree Payment Links with Stripe, PayPal, and Square to **$500M–$1B+ in payment volume**.
-- **AI decisioning:** helped scale SocietyOne's loan book from **$100M to $1B in 24 months** through a new lending decision engine.
-- **Marketplace trust:** launched Airtasker Pay, moving job completion from **50% to 80%** and increasing revenue **15%**.
+- **AI + creator tools:** launched Kajabi's GenAI ad-creation product for creator entrepreneurs.
+- **Creator mobile:** led Linktree's 0→1 mobile app to **1M+ downloads and a 4.8-star rating**.
+- **Retail + identity:** built Westfield digital identity products serving **10M+ shoppers** across online and in-centre experiences.
+- **Mobile banking:** helped launch Commonwealth Bank's mobile app to **5M+ downloads and a 4.9-star rating**.
+- **Services marketplace:** launched Airtasker's first mobile app to **500K+ downloads and a 4.9-star rating**.
 - **Product education:** built Product Academy to **5,000+ learners**, with courses taught through the University of Melbourne, General Assembly, and Harvard Innovation Labs.
 
 ## How I work
