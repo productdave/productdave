@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/david-wang-banner-p.svg" width="100%" alt="David Wang — Product leader, AI builder, founder" />
+  <img src="assets/david-wang-banner-p-bars.svg" width="100%" alt="David Wang — Product leader, AI builder, founder" />
 
   <br />
 
