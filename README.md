@@ -19,8 +19,8 @@ I also built **[Product Academy](https://www.productacademy.io/)** to turn that 
 <table>
   <tr>
     <td align="center"><strong>18+ years</strong><br /><sub>across 8+ product sectors</sub></td>
-    <td align="center"><strong>100M+ Customers Served</strong><br /><sub>from products I created</sub></td>
-    <td align="center"><strong>10B+ GMV Generated</strong><br /><sub>for businesses I worked for </sub></td>
+    <td align="center"><strong>500M+ Customers Served</strong><br /><sub>from products I created</sub></td>
+    <td align="center"><strong>100B+ GMV Generated</strong><br /><sub>for businesses I worked for </sub></td>
     <td align="center"><strong>5,000+ careers changed</strong><br /><sub> via coaching</sub></td>
   </tr>
 </table>
