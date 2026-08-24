@@ -1,0 +1,56 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">David Wang — Product leader, AI builder, founder</title>
+  <desc id="desc">A dark indigo banner with connected product cards and David Wang's name.</desc>
+  <defs>
+    <linearGradient id="bg" x1="70" y1="10" x2="1110" y2="380" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#111827"/>
+      <stop offset="0.52" stop-color="#312E81"/>
+      <stop offset="1" stop-color="#0F766E"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#A78BFA"/>
+      <stop offset="1" stop-color="#5EEAD4"/>
+    </linearGradient>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="12" stdDeviation="18" flood-color="#020617" flood-opacity="0.35"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="360" rx="28" fill="url(#bg)"/>
+  <circle cx="1070" cy="-35" r="210" fill="#818CF8" fill-opacity="0.12"/>
+  <circle cx="1160" cy="335" r="175" fill="#2DD4BF" fill-opacity="0.13"/>
+  <path d="M0 286C163 229 263 328 435 284C638 232 715 298 889 247C1007 212 1092 219 1200 263V360H0V286Z" fill="#020617" fill-opacity="0.16"/>
+
+  <g>
+    <rect x="70" y="65" width="82" height="82" rx="22" fill="url(#accent)"/>
+    <path d="M93 109C93 93.536 105.536 81 121 81H129V131H121C105.536 131 93 124.464 93 109Z" fill="#111827" fill-opacity="0.92"/>
+    <circle cx="122" cy="106" r="8" fill="#F8FAFC"/>
+  </g>
+
+  <text x="70" y="210" fill="#FFFFFF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="58" font-weight="750" letter-spacing="-1.5">David Wang</text>
+  <text x="72" y="258" fill="#DDD6FE" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="25" font-weight="600" letter-spacing="0.4">PRODUCT LEADER  •  AI BUILDER  •  FOUNDER</text>
+  <text x="72" y="302" fill="#CCFBF1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="21" font-weight="450">Turning messy customer problems into useful products.</text>
+
+  <g>
+    <rect x="800" y="60" width="136" height="98" rx="18" fill="#FFFFFF" fill-opacity="0.10" stroke="#FFFFFF" stroke-opacity="0.18"/>
+    <circle cx="832" cy="92" r="12" fill="#A78BFA"/>
+    <rect x="855" y="83" width="53" height="7" rx="3.5" fill="#FFFFFF" fill-opacity="0.8"/>
+    <rect x="823" y="118" width="84" height="7" rx="3.5" fill="#FFFFFF" fill-opacity="0.32"/>
+    <rect x="823" y="134" width="59" height="7" rx="3.5" fill="#FFFFFF" fill-opacity="0.22"/>
+  </g>
+  <g>
+    <rect x="965" y="112" width="150" height="108" rx="20" fill="#FFFFFF" fill-opacity="0.11" stroke="#FFFFFF" stroke-opacity="0.18"/>
+    <path d="M995 174C1008 153 1025 188 1041 160C1054 138 1064 151 1085 140" stroke="#5EEAD4" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="994" y="191" width="90" height="7" rx="3.5" fill="#FFFFFF" fill-opacity="0.30"/>
+  </g>
+  <g>
+    <rect x="775" y="196" width="160" height="102" rx="20" fill="#FFFFFF" fill-opacity="0.10" stroke="#FFFFFF" stroke-opacity="0.18"/>
+    <rect x="803" y="223" width="18" height="46" rx="7" fill="#818CF8"/>
+    <rect x="830" y="238" width="18" height="31" rx="7" fill="#A78BFA"/>
+    <rect x="857" y="214" width="18" height="55" rx="7" fill="#5EEAD4"/>
+    <rect x="884" y="231" width="18" height="38" rx="7" fill="#2DD4BF"/>
+  </g>
+
+  <path d="M936 109C956 106 971 117 982 130" stroke="#C4B5FD" stroke-opacity="0.55" stroke-width="2" stroke-dasharray="5 7"/>
+  <path d="M959 210C939 220 929 231 921 242" stroke="#99F6E4" stroke-opacity="0.52" stroke-width="2" stroke-dasharray="5 7"/>
+</svg>
