@@ -25,10 +25,6 @@ I also built **[Product Academy](https://www.productacademy.io/)** to turn that 
   </tr>
 </table>
 
-| **BUILD** | **TEACH** | **LEAD** |
-|---|---|---|
-| Turn deep customer problems into working products — from first prototype to scaled platform. | Turn hard-won product judgement into practical courses, cohorts, tools, and coaching. | Set direction, align product/design/engineering, and grow the people doing the work. |
-
 ## Products I've built
 
 | Product | The customer problem and the product bet |
