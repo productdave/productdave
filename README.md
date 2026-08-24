@@ -67,8 +67,8 @@ What I teach mirrors how I lead:
 
 Side projects show how I think with my hands. My day job has been turning the same product judgement into outcomes across larger teams and systems.
 
-- **Kajabi - AI + creator tools:** launched Kajabi's GenAI ad-creation product for creator entrepreneurs.
-- **Linktree - Core Product:** Created Linktree Affiliate Commerce that drove double digit revenue growth; Led Linktree's 0→1 mobile app to **1M+ downloads and a 4.8-star rating**.
+- **Kajabi - AI + creator tools:** launched Kajabi's **GenAI ad-creation product** for creator entrepreneurs.
+- **Linktree - Core Product:** Created Linktree Affiliate Commerce that drove **double digit revenue growth**; Led Linktree's 0→1 mobile app to **1M+ downloads and a 4.8-star rating**.
 - **Westfild - Retail + identity:** built Westfield digital identity products serving **10M+ shoppers** across online and in-centre experiences.
 - **Commonwealth Bank Australia - Mobile banking:** helped launch Commonwealth Bank's mobile app to **5M+ downloads and a 4.9-star rating**.
 - **Airtaker - Services marketplace:** launched Airtasker's first mobile app to **500K+ downloads and a 4.9-star rating**.
