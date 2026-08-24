@@ -76,7 +76,8 @@ Side projects show how I think with my hands. My day job has been turning the sa
 
 ## How I work
 
-- **Start with the customer tension.** A crisp problem is more valuable than a long feature list.
+- **Start a BIG Market.** Start with a Big Market that is underserved and quantify a wedge
+- **Start with the customer tension.** Then I focus on a valuable problem rather than a long feature list.
 - **Prototype to learn.** I use AI and code to make product conversations concrete early.
 - **Connect craft to the business.** Retention, revenue, cost, and trust belong in the product brief.
 - **Teach to scale judgement.** I explain the why, model the work, and give teams tools they can reuse.
