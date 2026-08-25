@@ -9,7 +9,7 @@
 
 ## I Build, I Teach, and I Lead
 
-For **18+ years**, I've built and scaled marketplace, commerce, mobile, payments, and AI products at high-growth companies including **Linktree, Kajabi, Airtasker, SocietyOne, and Westfield**.
+For **18+ years**, I've built and scaled marketplace, commerce, mobile, payments, and AI products at high-growth companies including **Linktree, Kajabi, Airtasker, SocietyOne, and Expedia**.
 
 I'm a senior product leader who still likes opening the editor and turning an idea into something people can try. Most of the projects here started with a problem I was personally tired of — locked-up meeting notes, generic learning tools, messy job searches, or shopping decisions that took far too much research.
 
