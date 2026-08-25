@@ -4,7 +4,6 @@
   <br />
 
   <a href="https://www.linkedin.com/in/davewang001/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.productacademy.io/"><img src="https://img.shields.io/badge/Product_Academy-Courses_%26_resources-24292F?style=flat-square&labelColor=FFD91A" alt="Product Academy courses and resources" /></a>
   <a href="mailto:david@davidwang.com.au"><img src="https://img.shields.io/badge/Email-Say_hello-24292F?style=flat-square&logo=gmail&logoColor=white" alt="Email David" /></a>
 </div>
 
