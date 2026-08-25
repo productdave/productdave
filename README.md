@@ -11,7 +11,7 @@
 
 For **18+ years**, I've built and scaled marketplace, commerce, mobile, payments, and AI products at high-growth companies including **Linktree, Kajabi, Airtasker, SocietyOne, and Expedia**.
 
-I'm a senior product leader who still likes opening the editor and turning an idea into something people can try. Most of the projects here started with a problem I was personally tired of — locked-up meeting notes, generic learning tools, messy job searches, or shopping decisions that took far too much research.
+I'm a player-coach leader who still likes to lead on the ground and turn ideas into products that change lives. Most of the projects here started with a problem I was personally tired of — locked-up meeting notes, generic learning tools, messy job searches, or shopping decisions that took far too much research.
 
 I also built **[Product Academy](https://www.productacademy.io/)** to turn that experience into practical product education. That is what full-stack product leadership means to me: **find a deep customer problem, build the product, connect it to the business, and make the team stronger.**
 
