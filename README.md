@@ -11,7 +11,7 @@
 
 For **18+ years**, I've built and scaled marketplace, commerce, mobile, payments, and AI products at high-growth companies including **Linktree, Kajabi, Airtasker, SocietyOne, and Expedia**.
 
-I'm a player-coach leader who still likes to lead on the ground and turn ideas into products that change lives. Most of the projects here started with a problem I was personally tired of — locked-up meeting notes, generic learning tools, messy job searches, or shopping decisions that took far too much research.
+I'm a player-coach leader who still likes to lead on the ground and turn ideas into products that change lives. Most of the projects here started with a problem I was personally tired of — creators having to surrender their own knowledge to use AI, locked-up meeting notes, generic learning tools, messy job searches, or shopping decisions that took far too much research.
 
 I also built **[Product Academy](https://www.productacademy.io/)** to turn that experience into practical product education. That is what full-stack product leadership means to me: **find a deep customer problem, build the product, connect it to the business, and make the team stronger.**
 
@@ -28,6 +28,7 @@ I also built **[Product Academy](https://www.productacademy.io/)** to turn that 
 
 | Product | The customer problem and the product bet |
 |---|---|
+| **[Alice](https://github.com/productdave/Alice)** · privacy-first AI teaching assistant | Educators should not have to hand over years of private source material to make their expertise useful at scale. Alice helps them build a cited AI teaching presence that can answer questions, grow authority, and create new opportunities while their videos and raw transcripts remain on their Mac. **Open-source developer preview** |
 | **[Learnable](https://learnable-tau.vercel.app/)** · save thousands on courses and learning | Generic courses rarely fit the learner's goal or starting point. Learnable turns a topic into a structured course with research, lessons, practice, flashcards, search, text-to-speech, and an AI tutor. **Live app** · [source](https://github.com/productdave/learnable-learn-anything) |
 | **[StoryLingo](https://storylingo-production.up.railway.app/)** · Teach your kids to speak multiple languages | Language practice is hard to sustain when it feels like homework. StoryLingo lets children speak with fairy-tale characters through real-time voice conversations. Built with OpenAI Realtime, Expo, React Native, and TypeScript. **Live app** · [source](https://github.com/productdave/storylingo) · [teaching version](https://github.com/productdave/storylingo-demo) |
 | **[Granola Exporter](https://github.com/productdave/granola-exporter)** · macOS utility | Meeting knowledge should not be trapped inside one app. This native-feeling tool exports Granola notes and transcripts to local, searchable Markdown — with smart diffing, resumable exports, and a packaged macOS app. **Open source** · [releases](https://github.com/productdave/granola-exporter/releases) |
@@ -67,7 +68,7 @@ What I teach mirrors how I lead:
 I work best where deep customer problems, commercial outcomes, and complex delivery meet.
 
 - **Marketplaces, commerce, and payments:** multi-sided products, checkout, monetisation, and partner ecosystems.
-- **AI/ML and creator tools:** GenAI workflows, decisioning systems, trust and safety, and tools for creators and SMBs.
+- **AI/ML and creator tools:** GenAI workflows, local-first privacy, decisioning systems, trust and safety, and tools for creators and SMBs.
 - **Mobile and platform products:** 0→1 consumer apps, shared services, APIs, and developer ecosystems.
 - **Zero-to-one and growth:** customer discovery, rapid prototypes, launches, product-led growth, lifecycle, and experimentation.
 - **Product strategy and leadership:** portfolio bets, multi-quarter roadmaps, executive alignment, and cross-functional delivery.
@@ -88,6 +89,7 @@ Side projects show how I think with my hands. My day job has been turning the sa
 
 - **Start a BIG Market.** Start with a Big Market that is underserved and quantify a wedge
 - **Start with the customer tension.** Then I focus on a valuable problem rather than a long feature list.
+- **Design the trust boundary early.** Privacy, ownership, and user control are product decisions—not legal footnotes.
 - **Prototype to learn.** I use AI and code to make product conversations concrete early.
 - **Connect craft to the business.** Retention, revenue, cost, and trust belong in the product brief.
 - **Teach to scale judgement.** I explain the why, model the work, and give teams tools they can reuse.
